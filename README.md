@@ -4,7 +4,9 @@ This program will help you find the minimum size of the supercell size for the S
 
 Input file "rndstr.in" 
 Here is an example of rndstr.in: 
+
 example 1 (fcc non-equiatomic fcc quaternary alloy)
+
 3.54 3.54 3.54  90 90 90
 0 0.5 0.5
 0.5 0 0.5
